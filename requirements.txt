@@ -1,0 +1,3 @@
+aiogram
+aiosqlite
+nest_asyncio
